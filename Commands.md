@@ -38,7 +38,7 @@
 --> in commit if we want to revert back to few previous commits 
     we have few options with us 
     - checkout commit  (opens a commit you wanna look at)
-    - revert commit  ()
+    - revert commit  ( it will remove the changes made in this commit)
     - reset commit (goes back to how it was at a particular time)
 --> when you clone a repo from the github you don't have to setup a new alias git has already taken care of it for us
 --> first you have to do git clone repolink to start working on the branch
