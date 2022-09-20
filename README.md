@@ -1,5 +1,5 @@
 # Git-basics
-A list of commands that are useful if you are work involves git
+A list of commands that are useful if you're work involves git
 
 
 here's a link of the playlist to learn git and github (from the net ninja YOUTUBE channel)
